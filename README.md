@@ -20,7 +20,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" title="IntelliJ IDEA"/>
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=Pepito&show_icons=true&theme=radical" alt="Estadísticas"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pepito&theme=blue-green" alt="Racha"/>
-  
+
 </div>
